@@ -1,5 +1,5 @@
 
-# AI Agent Automation System with LangGraph
+# AI Agent Automation System with LangGraph(RAG Agent)
 
 ## Use Case
 A customer support automation system where the AI agent handles incoming queries, retrieves relevant data, and generates accurate responses using Retrieval-Augmented Generation (RAG) and LangGraph.
